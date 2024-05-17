@@ -21,7 +21,6 @@ This project can be divided into two parts:
 RAG with knowledge graph
 ├── notebooks
 |   ├── finetune
-│   ├── kg_gen
 ├── src
 |   ├── finetune
 |   |   ├── create_dataset.py
